@@ -76,9 +76,7 @@ This project is a code execution tool that interacts with an online code compile
    2. Verify the presence of the `code.txt` file in the `input` directory, containing the code to be executed.
    3. Check for the existence of the `input.txt` file in the `input` directory for providing input to the code.
    4. If all checks pass, the script will execute the code and return the output, which will be recorded in `output.txt` in the `bin` directory.
-   5. Logs for all operations will be generated and recorded in `logfile.log` in the `bin` directory.
-   <br>
-  <br>
+   5. Logs for all operations will be generated and recorded in `logfile.log` in the `bin` directory. <br><br>
 
     ```bash
     python src/main.py
